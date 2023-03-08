@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 25ba3e47172f2b547a2886ef8adfa55e, type: 3}
+    - {fileID: 2800000, guid: c7b647ab3ae01c045a67e952106f9ebf, type: 3}
+    - {fileID: 2800000, guid: f55192b4e557052419d0b1cd29d84df3, type: 3}
+    - {fileID: 2800000, guid: a0fa2aef4c87e5444b1857f5bbb817cc, type: 3}
+    - {fileID: 2800000, guid: 86384900d003b7342b2d852d57fb681a, type: 3}
+    - {fileID: 2800000, guid: 9e8f894f988b7014d80370ad0c52c376, type: 3}
+    - {fileID: 2800000, guid: c76c048e85cd61a4183f075339d09c6b, type: 3}
+    - {fileID: 2800000, guid: 674dc5a6df7cf4f4394a8aa890424b34, type: 3}
+    - {fileID: 2800000, guid: c0bb5317aa0bc404fb56693a0bb744dd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 86384900d003b7342b2d852d57fb681a, type: 3}
+  - {fileID: 21300000, guid: f55192b4e557052419d0b1cd29d84df3, type: 3}
+  - {fileID: 21300000, guid: 674dc5a6df7cf4f4394a8aa890424b34, type: 3}
+  - {fileID: 21300000, guid: c0bb5317aa0bc404fb56693a0bb744dd, type: 3}
+  - {fileID: 21300000, guid: 25ba3e47172f2b547a2886ef8adfa55e, type: 3}
+  - {fileID: 21300000, guid: c7b647ab3ae01c045a67e952106f9ebf, type: 3}
+  - {fileID: 21300000, guid: c76c048e85cd61a4183f075339d09c6b, type: 3}
+  - {fileID: 21300000, guid: 9e8f894f988b7014d80370ad0c52c376, type: 3}
+  - {fileID: 21300000, guid: a0fa2aef4c87e5444b1857f5bbb817cc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UI_BG_Shop
+  - UI_Panel_item
+  - UI_Panel_MedKit
+  - UI_Panel_UMP
+  - UI_HealBar_empty
+  - UI_Panel_glock-19
+  - UI_Panel_granata
+  - UI_HealBar_Frll
+  - UI_BG_HealBar
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
